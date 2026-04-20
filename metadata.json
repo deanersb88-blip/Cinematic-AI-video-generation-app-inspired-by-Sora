@@ -1,0 +1,6 @@
+{
+  "name": "Motion Lab",
+  "description": "Sora-style cinematic video generation studio with storyboard and prompt tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
